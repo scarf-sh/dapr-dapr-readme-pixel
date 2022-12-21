@@ -1,4 +1,5 @@
 <div style="text-align: center"><img src="/img/dapr_logo.svg" height="120px">
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=4848fb3b-3edb-4329-90a9-a9d79afff054" />
 <h2>Any language, any framework, anywhere</h2>
 </div>
 
